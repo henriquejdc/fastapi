@@ -1,0 +1,12 @@
+FastAPI basic Python
+
+Implementado:
+- Crud with FastAPI
+
+Instalar: 
+- pip install -r requeriments.txt
+
+Utilizar o /docs para métodos implementados no swagger
+
+Seguido o tutorial abaixo:
+https://www.youtube.com/watch?v=GN6ICac3OXY&ab_channel=Amigoscode
